@@ -1,6 +1,6 @@
 baseurl = "https://username.github.io"
 DefaultContentLanguage = "en"
-title = "Beautiful Hugo"
+title = "Mike Turko"
 
 
 pygmentsStyle = "trac"
@@ -13,7 +13,7 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-# homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+# homeTitle = "Mike Turko" # Set a different text for the header on the home page
   subtitle = "Build a beautiful and simple website in minutes"
   mainSections = ["post","posts"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
