@@ -1,6 +1,6 @@
 title = "Mike Turko"
 relativeUrls = true
-baseURL = "https://substantial-tent-square.on-fleek.app"
+baseURL = "https://mturko.vercel.app/"
 languageCode = "en-us"
 
 [build.environmnet]
