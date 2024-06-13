@@ -1,9 +1,10 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-author: ""
+author: "Mike Turko"
 type: ""
 date: {{ .Date }}
-subtitle: ""
+subtitle: "Reserved for Subtitle"
 image: "/img/path.jpg"
+bigimg: [{src: "/img/path.jpg", desc: "ride or run it"}]
 tags: ["test", "image"]
 ---
