@@ -1,5 +1,6 @@
 title = "Mike Turko"
 relativeUrls = true
+canonifyURLs = true
 baseURL = "https://mturko.vercel.app/"
 
 [build.environmnet]
