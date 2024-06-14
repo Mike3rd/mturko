@@ -27,33 +27,32 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
- <!-- Site Title, Description, Author, and Favicon -->
-
+<!-- Site Title, Description, Author, and Favicon -->
 {{ if .IsHome }}
-    {{- with .Site.Params.homeTitle }}
-      <title>{{ . }}</title>
-    {{- end }}
-  {{ else }}
-    {{- with ($.Scratch.Get "Title") }}
-      <title>{{ . }} - {{ $.Site.Params.homeTitle }}</title>
-    {{- end }}
+<title>{{ $.Site.Title }}</title>
+{{ if (isset $.Site.Params "description") }}
+<meta name="description" content="{{ $.Site.Params.description }}">
 {{ end }}
-
-{{- with ($.Scratch.Get "Description") }}
-  <meta name="description" content="{{ . }}">
+{{- else }}
+{{- with ($.Scratch.Get "Title") }}
+<title>{{ . }} - {{ $.Site.Title }}</title>
 {{- end }}
+{{- with ($.Scratch.Get "Description") }}
+<meta name="description" content="{{ . }}">
+{{- end }}
+{{ end }}
 {{- with .Site.Author.name }}
-  <meta name="author" content="{{ . }}"/>
+<meta name="author" content="{{ . }}">
 {{- end }}
 {{- partial "seo/main.html" . }}
 <link rel="apple-touch-icon" sizes="180x180" href=" {{ "favicon/apple-touch-icon.png" | absURL }}">
 <link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon/favicon-32x32.png"  | absURL }}">
 <link rel="icon" type="image/png" sizes="16x16" href="{{ "favicon/favicon-16x16.png" | absURL }}">
-
 <!--origianl favicon code
 {{- with .Site.Params.favicon }}
   <link href='{{ . | absURL }}' rel='icon' type='image/x-icon'/>
 {{- end -}} -->
+
 <!-- Hugo Version number -->
   {{ hugo.Generator -}}
 <!-- Links and stylesheets -->
