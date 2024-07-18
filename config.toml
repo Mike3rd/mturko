@@ -27,6 +27,7 @@ pygmentsCodefencesGuessSyntax = true
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "02 January 2006"
+  custom_css = ["styles.css"]
   commit = false
   rss = true
   comments = true
