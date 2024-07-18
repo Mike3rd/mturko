@@ -8,13 +8,20 @@
     <language>en</language>
     <managingEditor>youremail@domain.com (Some Person)</managingEditor>
     <webMaster>youremail@domain.com (Some Person)</webMaster>
-    <lastBuildDate>Wed, 12 Jun 2024 23:06:19 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 15:41:48 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wednesdaytag</title>
       <link>http://localhost:1313/post/wednesdaytag/</link>
       <pubDate>Wed, 29 May 2024 15:47:26 -0400</pubDate><author>youremail@domain.com (Some Person)</author>
       <guid>http://localhost:1313/post/wednesdaytag/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thursday</title>
+      <link>http://localhost:1313/post/thursday/</link>
+      <pubDate>Thu, 18 Jul 2024 15:41:48 -0400</pubDate><author>youremail@domain.com (Some Person)</author>
+      <guid>http://localhost:1313/post/thursday/</guid>
       <description></description>
     </item>
     <item>

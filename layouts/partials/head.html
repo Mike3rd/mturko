@@ -56,6 +56,11 @@
 <!-- Hugo Version number -->
   {{ hugo.Generator -}}
 <!-- Links and stylesheets -->
+
+{{ range .Site.Params.custom_css -}} <!-- mturko link to custom css in static folder -->
+    <link rel="stylesheet" href="{{ . | absURL }}">
+{{- end }}<!-- mturko link to custom css in static folder -->
+
   <link rel="alternate" href="{{ "index.xml" | absLangURL }}" type="application/rss+xml" title="{{ .Site.Title }}">
 
   {{- if .Site.Params.selfHosted -}}

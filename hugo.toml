@@ -19,6 +19,7 @@ pygmentsCodefencesGuessSyntax = true
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
+  custom_css = ["styles.css"]
   commit = false
   rss = true
   comments = true
@@ -43,6 +44,11 @@ pygmentsCodefencesGuessSyntax = true
 #[[Params.bigimg]]
 #  src = "img/hexagon.jpg"
 #  desc = "Hexagon"
+
+[Params.Author]
+  email = "youremail@domain.com"
+  name = "Some Person"
+
 
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
