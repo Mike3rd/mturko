@@ -54,9 +54,13 @@ pygmentsCodefencesGuessSyntax = true
 #  src = "img/hexagon.jpg"
 #  desc = "Hexagon"
 
+[Params.Author]
+  email = "youremail@domain.com"
+  name = "Some Person2"
+
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  name = "Some Person"
+  name = "Some Person3"
   website = "yourwebsite.com"
   email = "youremail@domain.com"
   facebook = "username"
