@@ -1,9 +1,8 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-type: ""
 date: {{ .Date }}
-subtitle: "Reserved for Subtitle"
-image: "/img/path.jpg"
-bigimg: [{src: "/img/path.jpg", desc: "ride or run it"}]
-tags: ["test", "image"]
+description : "Description goes here..."
+tags: ["test"]
+image : "/img/posts/2024/may/test3.png"
+draft: false
 ---

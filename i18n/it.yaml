@@ -4,7 +4,7 @@
 - id: shortdateFormat
   translation: "2 Jan 2006 15:04:05"
 - id: postedOnDate
-  translation: "Pubblicato il {{ . }}"
+  translation: "Redatto il {{ . }}"
 - id: lastModified
   translation: "(Ultima modifica il {{ . }})"
 - id: translationsLabel
@@ -33,13 +33,13 @@
 
 # Footer
 - id: poweredBy # Accepts HTML
-  translation: '<a href="https://gohugo.io">Sviluppato con Hugo v{{ .Site.Hugo.Version }}</a> &nbsp;&bull;&nbsp; Tema <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a> adattato da <a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>'
+  translation: 'Powered by <a href="https://gohugo.io">Hugo</a> & <a href="https://github.com/binokochumolvarghese/lightbi-hugo">Lightbi.</a>&nbsp; Made with ❤ by <a href="https://binovarghese.com">Bino</a>'
 
 # Navigation
 - id: toggleNavigation
-  translation: "Menu"
+  translation: "Attiva/disattiva la navigazione"
 - id: languageSwitcherLabel
-  translation: "Lingua"
+  translation: "Linguaggio"
 - id: gcseLabelShort
   translation: "Cerca"
 - id: gcseLabelLong
@@ -71,4 +71,4 @@
 
 # Related posts
 - id: seeAlso
-  translation: "Vedi anche"
+  translation: "Guarda anche"

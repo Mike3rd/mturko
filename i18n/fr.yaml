@@ -1,18 +1,18 @@
 # Content
 - id: dateFormat
-  translation: "2·01·2006"
+  translation: "January 2, 2006"
 - id: shortdateFormat
-  translation: "2·01·2006 - 15:04:05"
+  translation: "2 Jan, 2006 15:04:05"
 - id: postedOnDate
-  translation: "Publié le {{ . }}"
+  translation: "Posté le {{ . }}"
 - id: lastModified
-  translation: "(Mise à jour le {{ . }})"
+  translation: "(Dernière modification le {{ . }})"
 - id: translationsLabel
-  translation: "Traductions : "
+  translation: "Autres langues : "
 - id: translationsSeparator
   translation: ", "
 - id: readMore
-  translation: "Lire"
+  translation: "Voir plus"
 - id: olderPosts
   translation: "Anciens posts"
 - id: newerPosts
@@ -33,11 +33,11 @@
 
 # Footer
 - id: poweredBy # Accepts HTML
-  translation: 'Carbure avec <a href="https://gohugo.io">Hugo v{{ .Site.Hugo.Version }}</a>&nbsp;&bull;&nbsp; Avec le Theme <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a> adapté de <a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>'
+  translation: 'Powered by <a href="https://gohugo.io">Hugo</a> & <a href="https://github.com/binokochumolvarghese/lightbi-hugo">Lightbi.</a>&nbsp; Made with ❤ by <a href="https://binovarghese.com">Bino</a>'
 
 # Navigation
 - id: toggleNavigation
-  translation: "Activer la navigation"
+  translation: "Toggle navigation"
 - id: languageSwitcherLabel
   translation: "Langue"
 - id: gcseLabelShort
@@ -55,15 +55,13 @@
 - id: moreComment
   translation: "commentaires"
 - id: useMarkdown
-  translation: "Rédigez votre commentaire ici. (Vous pouvez utiliser la syntaxe Markdown)"
+  translation: "Vous pouvez utiliser la syntaxe Markdown"
 - id: yourName
   translation: "Votre nom"
 - id: yourEmail
-  translation: "Votre adresse mail"
+  translation: "Votre addresse mail"
 - id: yourWebsite
   translation: "Votre site web"
-- id: sendComment
-  translation: "Envoyer"
 
 # Delayed Disqus
 - id: show
@@ -73,4 +71,4 @@
 
 # Related posts
 - id: seeAlso
-  translation: "Suggestions de lecture :"
+  translation: "Voir également"

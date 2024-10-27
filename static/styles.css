@@ -1,49 +1,196 @@
 /* =================================================================== 
- * Mike Turko Stylesheet Mturko
+ * Mike Turko Stylesheet Planet EasyPeasy
  * Template Ver. 1.0.0
  * 01-15-2024
  * ------------------------------------------------------------------*/
  
-.page-subheading {color:red}
+ 
+ /* a. Webfonts
+/* =================================================================== */
+ @import url("fonts.css");
+ 
+ :root {
+  --font-1: "exoregular", sans seriff; /*title*/
+  --regular: normal;
+  --bold: bold;
 
-.container-top {
-  --offset: 100px;
-  --fade: 80px;
-  
-  display: flex;
-  align-items: flex-end;
-  width: 60px;
-  justify-self: end;
-  justify-content: flex-end;
-  -webkit-mask:linear-gradient(#0000 calc(100vh + var(--offset)),#000 calc(100vh + var(--offset) + var(--fade)));
 }
-
-.top {
-  position: sticky;
-  bottom: 20px;      
-  margin-right:10px; 
-  
-  /* visual styling */
-  width:100%;
-  aspect-ratio:1;
-  background:#ff8b24;
-  border-radius:10px;
-}
-.top:before {
-  content:"";
-  position:absolute;
-  inset:30%;
-  transform:translateY(20%) rotate(-45deg);
-  border-top:5px solid #fff;
-  border-right:5px solid #fff;
-}
-
-
-
  
  
  
 
+/*well is title on home page*/
+.well {
+    min-height: 20px;
+    padding-top: 0px;
+    margin-bottom: 1rem !important;
+    background-color: white;
+    margin-top: -30px;
+    text-align: center;
+    font-weight: 800 !important;
+    font-size: calc(3rem + 2.1vw);
+	font-family:var(--font-1);
+	line-height: 100% !important;
+    /*font-size: 80px;*/
+}
+
+@media only screen and (max-width: 767px) {
+    .well p {
+        margin-top: -40px;
+        line-height: 100% !important;
+    }
+
+
+
+}/*end media scree max 767px*/
+
+.home-title-text {
+    font-weight: 600 !important;
+    margin-bottom: 1rem !important;
+    font-size: calc(1.425rem + 2.1vw);
+    line-height: 1 !important;
+}
+
+
+
+
+blockquote {
+    background: #f9f9f9;
+    border-left: 10px solid #ccc;
+    margin: 1.5em 10px;
+    padding: 1em 12px 1em 1.5em;
+    quotes: "\201C""\201D""\2018""\2019";
+}
+
+blockquote {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+    unicode-bidi: isolate;
+}
+
+/* author picture*/
+.img-round {
+    border-style: solid;
+    border-color: #50BFE6;
+    border-width: 4px !important
+}
+
+/*planet in log, uncoment in layout partial nav.html*/
+.dot {
+    height: 20px;
+    width: 20px;
+    /*background-color: #50BFE6;*/
+    background-image: linear-gradient(to top, #50BFE6, #4deeea);
+    border-radius: 50%;
+    display: inline-block;
+    box-shadow: 0px 0px 2px 4px #f000ff;
+    border-style: solid;
+    border-color: cyan;
+    border-width: 2px 1px 1px 2px;
+}
+
+.star {
+    color: red;
+    font-size: 15px;
+}
+
+.navbar-brand {
+    color: var(--bs-heading-color);
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+.navbar-nav li {
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 13px;
+    letter-spacing: 1px;
+}
+
+@media only screen and (max-width: 767px) {
+
+    /*author card bottom of post*/
+    .img-50 {
+        max-width: 125px
+    }
+
+    .fixed-top {
+        position: fixed;
+    }
+}/*end media querry*/
+
+/*avatar center of header*/
+.navbar .avatar-container {
+    opacity: 1;
+    visibility: visible;
+    position: absolute;
+    -webkit-transition: visibility 0.5s, opacity 0.5s ease-in-out;
+    -moz-transition: visibility 0.5s, opacity 0.5s ease-in-out;
+    transition: visibility 0.5s, opacity 0.5s ease-in-out;
+    left: 50%;
+    width: 50px;
+    margin-top: 70px;
+    position: fixed
+}
+
+.navbar .avatar-container .avatar-img-border {
+    width: 100%;
+    border-radius: 50%;
+    margin-left: -50%;
+    display: inline-block;
+    box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+    -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .8);
+    -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+}
+
+.navbar .avatar-container .avatar-img {
+    width: 100%;
+    border-radius: 50%;
+    display: block;
+}
+
+.navbar.top-nav-short .avatar-container {
+    opacity: 0;
+    visibility: hidden;
+}
+
+.top-nav-expanded {
+    display: none;
+}
+
+
+/* avatar on desktop size */
+@media only screen and (min-width: 768px) {
+    .navbar .avatar-container {
+        width: 100px;
+        margin-top: 70px;
+    }
+
+    .navbar.avatar-container .avatar-img-border {
+        width: 100%;
+        box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
+        -webkit-box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
+        -moz-box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
+    }
+
+    .navbar .avatar-container .avatar-img {
+        width: 100%;
+    }
+		
+}/* end media querry */
+
+/* delete searchbar on mobile */
+@media only screen and (max-width: 767px) {
+
+.search-item, .search, .search-input{
+	display:none
+}
+}/*end media querry*/
 
 
 
