@@ -10,9 +10,11 @@
  @import url("fonts.css");
  
  :root {
-  --font-1: "exoregular", sans seriff; /*title*/
+  /*--font-1: "exoregular", sans seriff; /*title*/
   --regular: normal;
   --bold: bold;
+  
+  --font-1:'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif
 
 }
  
