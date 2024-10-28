@@ -1,9 +1,9 @@
 ---
 type : "tags"
 layout : "about"
-title: "Planet EasyBreezy"
+title: "Mike Turko"
 ---
-Planet EasyBreezy
+Mike Turko
 # `Mkeoiid cod wiapc dlpiem clde.`
 
 
