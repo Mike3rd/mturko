@@ -1,7 +1,7 @@
-baseURL = "https://lightbi-hugo-theme.netlify.app/"
+baseURL = "https://mturko.com"
 DefaultContentLanguage = "en"
 languageCode = "en-us"
-title = "PlanetEasyBreezy"
+title = "Mike Turko"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
 #pygmentsUseClasses = true
