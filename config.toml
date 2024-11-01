@@ -4,7 +4,7 @@ canonifyURLs = true
 
 DefaultContentLanguage = "en"
 languageCode = "en-us"
-title = "MTURKO.COM"
+title = "mturko.com"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
 #pygmentsUseClasses = true
