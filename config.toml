@@ -1,10 +1,10 @@
-baseURL = "https://mturko.vercel.app/"
+baseURL = "https://mturko.com/"
 relativeUrls = true
 canonifyURLs = true
 
 DefaultContentLanguage = "en"
 languageCode = "en-us"
-title = "Mike Turko"
+title = "mturko.com"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
 #pygmentsUseClasses = true
