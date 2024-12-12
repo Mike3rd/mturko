@@ -1,7 +1,7 @@
 title = "Mike Turko"
 relativeUrls = true
 canonifyURLs = true
-baseURL = "https://mturko2.vercel.app/"
+baseURL = "https://mturko.vercel.app/"
 
 [build.environmnet]
 HUGO_VERSION = "0.136.2"
