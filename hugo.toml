@@ -1,9 +1,9 @@
-title = "Mike Turko"
-relativeUrls = true
-canonifyURLs = true
-baseURL = "https://mturko.vercel.app/"
-theme = ["beautifulhugo", "hugo-shortcode-gallery"]
+baseurl = "https://username.github.io"
+DefaultContentLanguage = "en"
+title = "Beautiful Hugo"
+# Using theme as git submodule
 
+theme = ["beautifulhugo", "hugo-shortcode-gallery"]
 # Or when using theme as hugo module
 # theme = "github.com/halogenica/beautifulhugo"
 pygmentsStyle = "trac"
@@ -20,7 +20,7 @@ pygmentsCodefencesGuessSyntax = true
     # id = "XXX"
 
 [Params]
-homeTitle = "Mike Turko" # Set a different text for the header on the home page
+#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   subtitle = "Build a beautiful and simple website in minutes"
   mainSections = ["post","posts"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
