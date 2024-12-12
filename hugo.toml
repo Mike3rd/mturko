@@ -20,7 +20,7 @@ pygmentsCodefencesGuessSyntax = true
     # id = "XXX"
 
 [Params]
-baseURL = "https://mturko.vercel.app/"
+baseURL = "https://mturko.vercel.app"
  homeTitle = "Mike Turko" # Set a different text for the header on the home page
   subtitle = "Build a beautiful and simple website in minutes"
   mainSections = ["post","posts"]
