@@ -2,7 +2,7 @@ title = "Mike Turko"
 relativeUrls = true
 canonifyURLs = true
 baseURL = "https://mturko.vercel.app/"
-
+theme = ["beautifulhugo", "hugo-shortcode-gallery"]
 [build.environmnet]
 HUGO_VERSION = "0.136.2"
 TZ = "America/New_York"
