@@ -1,7 +1,8 @@
 DefaultContentLanguage = "en"
 title = "mturko.com"
 # Using theme as git submodule
-
+relativeUrls = true
+canonifyURLs = true
 
 # Or when using theme as hugo module
 # theme = "github.com/halogenica/beautifulhugo"
