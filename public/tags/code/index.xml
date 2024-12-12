@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Code on mturko</title>
+    <title>Code on Mike Turko</title>
     <link>http://localhost:1313/tags/code/</link>
-    <description>Recent content in Code on mturko</description>
+    <description>Recent content in Code on Mike Turko</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>youremail@domain.com (Some Person)</managingEditor>

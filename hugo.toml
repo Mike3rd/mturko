@@ -1,7 +1,7 @@
-baseurl = "https://username.github.io"
-DefaultContentLanguage = "en"
-title = "mturko"
-# Using theme as git submodule
+title = "Mike Turko"
+relativeUrls = true
+canonifyURLs = true
+baseURL = "https://mturko.vercel.app/"
 theme = ["beautifulhugo", "hugo-shortcode-gallery"]
 
 # Or when using theme as hugo module
