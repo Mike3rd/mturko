@@ -22,7 +22,7 @@ pygmentsCodefencesGuessSyntax = true
 [Params]
 baseURL = "https://mturko.vercel.app"
  homeTitle = "Mike Turko" # Set a different text for the header on the home page
-  subtitle = "Build a beautiful and simple website in minutes"
+  subtitle = "Graphic Designer | Digital Designer | Amateur Triathlete"
   mainSections = ["post","posts"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
