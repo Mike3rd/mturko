@@ -2,23 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
-    <lastmod>2025-02-02T14:26:56-05:00</lastmod>
-  </url><url>
-    <loc>/tags/eagleman/</loc>
-    <lastmod>2025-02-02T14:26:56-05:00</lastmod>
-  </url><url>
     <loc>/post/eagleman_trainingplan_feb/</loc>
     <lastmod>2025-02-02T14:26:56-05:00</lastmod>
   </url><url>
+    <loc>/post/eagleman-training-march/</loc>
+    <lastmod>2025-02-02T14:55:36-05:00</lastmod>
+  </url><url>
+    <loc>/post/eagleman-training-april/</loc>
+    <lastmod>2025-02-02T15:04:57-05:00</lastmod>
+  </url><url>
+    <loc>/post/eagleman-training-may/</loc>
+    <lastmod>2025-02-02T15:07:52-05:00</lastmod>
+  </url><url>
+    <loc>/post/eagleman-training-race-week/</loc>
+    <lastmod>2025-02-02T15:13:08-05:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2025-02-02T15:13:08-05:00</lastmod>
+  </url><url>
+    <loc>/tags/eagleman/</loc>
+    <lastmod>2025-02-02T15:13:08-05:00</lastmod>
+  </url><url>
     <loc>/post/</loc>
-    <lastmod>2025-02-02T14:26:56-05:00</lastmod>
+    <lastmod>2025-02-02T15:13:08-05:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
-    <lastmod>2025-02-02T14:26:56-05:00</lastmod>
+    <lastmod>2025-02-02T15:13:08-05:00</lastmod>
   </url><url>
     <loc>/tags/training/</loc>
-    <lastmod>2025-02-02T14:26:56-05:00</lastmod>
+    <lastmod>2025-02-02T15:13:08-05:00</lastmod>
   </url><url>
     <loc>/tags/example/</loc>
     <lastmod>2017-03-20T00:00:00+00:00</lastmod>
