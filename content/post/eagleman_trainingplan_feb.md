@@ -149,4 +149,18 @@ Here’s a **weekly summary** of your February workouts for your 70.3 Half Ironm
 - **Mental Preparation**: Visualize race day and practice positive self-talk during tough workouts.  
 - **Gear Check**: Test your race-day gear (e.g., wetsuit, bike, shoes) during training to ensure everything works well.
 - **Conversions**: 1 km = .62 mi., 1 m = 3.28 ft.
-- **70.3 Ironman**: 1.2 mi. Swim, 56 mi. Bike, 13.1 mi. Run  
+- **70.3 Ironman**: 1.2 mi. Swim, 56 mi. Bike, 13.1 mi. Run
+- **Zones**: Use heart rate, power, or perceived effort to gauge intensity.
+
+| Zones | BPM | % |
+| :------ |:--- | :--- |
+| Zone 1 | 81-97| 50 |
+| Zone 2 | 97-113 | 60 |
+| Zone 3 | 113-130 | 70 |
+| Zone 4 | 130-146 | 80 |
+| Zone 5 | 146-162 | 90 |
+| Max HR | 162 | 100 |
+
+---
+
+  
