@@ -5,6 +5,7 @@ type: ""
 date: 2025-02-02T15:13:08-05:00
 subtitle: ""
 image: ""
+bigimg: [{src: "/img/path.jpg", desc: "ride or run it"}]
 tags: [Training, Eagleman]
 weight: 5
 ---

@@ -18,9 +18,10 @@ Here’s a **weekly summary** of your February workouts for your 70.3 Half Ironm
 
 ---
 
-- **Strength Training**:
-   - Maintain 1–2 sessions per week, focusing on **muscular endurance**.  
-   - Incorporate **plyometrics** (e.g., box jumps, burpees) for power.  
+- **Strength Training** 💪:
+   - Maintain 1–2 sessions per week, especially during the base and build phases of your training.
+   - Focus on **muscular endurance**.  
+   - Top **Strength Exercises** for Triathlon `{{< blank  href="/post/eagleman-training-strength/" title="Strength Exercises" popup="Strength and Core">}}`
 
 ---
 

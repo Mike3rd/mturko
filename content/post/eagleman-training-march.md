@@ -5,6 +5,7 @@ type: ""
 date: 2025-02-02T14:55:36-05:00
 subtitle: ""
 image: ""
+bigimg: [{src: "/img/path.jpg", desc: "ride or run it"}]
 tags: [Training, Eagleman]
 weight: 2
 ---
@@ -13,12 +14,15 @@ weight: 2
 
 ---
 
-
 #### **Key Workouts**  
 - **Long Bike**: Build up to 3–4 hours with steady Zone 2 effort.  
 - **Brick Workouts**: Bike 2–3 hours followed by a 20–40 minute run at race pace.  
 - **Long Run**: Build up to 90–120 minutes at an easy pace.  
 - **Swim Intervals**: Include 10x100m at race pace with short rest (10–15 seconds).  
+- **Strength Training** 💪:
+   - Maintain 1–2 sessions per week, especially during the base and build phases of your training.
+   - Focus on **muscular endurance**.  
+   - Top **Strength Exercises** for Triathlon `{{< blank  href="/post/eagleman-training-strength/" title="Strength Exercises" popup="Strength and Core">}}`
 
 ---
 
