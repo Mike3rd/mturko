@@ -18,6 +18,12 @@ Here’s a **weekly summary** of your February workouts for your 70.3 Half Ironm
 
 ---
 
+- **Strength Training**:
+   - Maintain 1–2 sessions per week, focusing on **muscular endurance**.  
+   - Incorporate **plyometrics** (e.g., box jumps, burpees) for power.  
+
+---
+
 #### **Week 1**  
 1. **Swim**: 1,500 meters  
    - Warm-up: 300m easy  

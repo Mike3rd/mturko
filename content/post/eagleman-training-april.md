@@ -14,21 +14,14 @@ weight: 3
 ---
 
 
-#### **Weekly Structure**  
-1. **Swim**: 2–3 sessions (3,000–4,000 meters per session)  
-   - Include race-pace intervals, open-water simulations, and endurance sets.  
-2. **Bike**: 2–3 sessions (3–5 hours per week)  
-   - Include long rides, race-pace efforts, and hill repeats.  
-3. **Run**: 2–3 sessions (1.5–2.5 hours per week)  
-   - Include long runs, tempo runs, and brick workouts.  
-4. **Strength Training**: 1 session (45 minutes)  
-5. **Recovery**: 1–2 easy days or rest days per week.  
-
 #### **Key Workouts**  
 - **Long Bike**: Build up to 4–5 hours with race-pace efforts.  
 - **Brick Workouts**: Bike 3–4 hours followed by a 30–50 minute run at race pace.  
 - **Long Run**: Build up to 2–2.5 hours at an easy pace.  
-- **Swim Intervals**: Include 12x100m at race pace with short rest (10 seconds).  
+- **Swim Intervals**: Include 12x100m at race pace with short rest (10 seconds).
+- **Strength Training**:
+   - Maintain 1–2 sessions per week, focusing on **muscular endurance**.  
+   - Incorporate **plyometrics** (e.g., box jumps, burpees) for power.   
 
 ---
 ### **Key Notes**  

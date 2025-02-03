@@ -13,16 +13,36 @@ weight: 2
 
 ---
 
+### **March Key Notes (Build Phase)**  
 
-#### **Weekly Structure**  
-1. **Swim**: 2–3 sessions (2,500–3,500 meters per session)  
-   - Include intervals at race pace, open-water simulations, and technique drills.  
-2. **Bike**: 2–3 sessions (2–4 hours per week)  
-   - Include long rides, hill repeats, and tempo efforts.  
-3. **Run**: 2–3 sessions (1–2 hours per week)  
-   - Include long runs, tempo runs, and brick workouts.  
-4. **Strength Training**: 1–2 sessions (45–60 minutes)  
-5. **Recovery**: 1–2 easy days or rest days per week.  
+1. **Swim**:  
+   - Increase swim volume to 2,500–3,500 meters per session.  
+   - Include **open-water simulations** (if possible) to practice sighting and drafting.  
+   - Add **race-pace intervals** (e.g., 10x100m at race pace with short rest).  
+
+2. **Bike**:  
+   - Build **long rides** up to 3–4 hours to improve endurance.  
+   - Include **hill repeats** to build strength and power.  
+   - Practice **tempo efforts** at race pace to improve pacing.  
+
+3. **Run**:  
+   - Increase long runs to 90–120 minutes to build endurance.  
+   - Include **tempo runs** to improve lactate threshold.  
+   - Add **brick workouts** (e.g., 2–3 hour bike followed by a 20–40 minute run).  
+
+4. **Strength Training**:  
+   - Maintain 1–2 sessions per week, focusing on **muscular endurance**.  
+   - Incorporate **plyometrics** (e.g., box jumps, burpees) for power.  
+
+5. **Recovery**:  
+   - Monitor fatigue and adjust intensity as needed.  
+   - Use **active recovery** (e.g., easy swims, yoga) to stay fresh.  
+
+6. **Nutrition**:  
+   - Test **race-day nutrition** during long workouts.  
+   - Practice hydration and fueling strategies for the bike and run.
+   
+---
 
 #### **Key Workouts**  
 - **Long Bike**: Build up to 3–4 hours with steady Zone 2 effort.  
