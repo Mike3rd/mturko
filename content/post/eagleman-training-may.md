@@ -121,3 +121,5 @@ weight: 4
 - **Listen to Your Body**: Adjust intensity or take extra rest if you feel fatigued or sore.  
 - **Mental Preparation**: Visualize race day and practice positive self-talk during tough workouts.  
 - **Gear Check**: Test your race-day gear (e.g., wetsuit, bike, shoes) during training to ensure everything works well.
+- **Conversions**: 1 km = .62 mi., 1 m = 3.28 ft.
+- **70.3 Ironman**: 1.2 mi. Swim, 56 mi. Bike, 13.1 mi. Run  
