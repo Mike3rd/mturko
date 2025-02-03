@@ -33,6 +33,4 @@ weight: 5
 
 6. **Race Day!**  
    - Stick to your nutrition plan, pace yourself, and enjoy the experience!
-   
-
 ---

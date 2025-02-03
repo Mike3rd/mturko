@@ -25,91 +25,93 @@ Here’s a **weekly summary** of your February workouts for your 70.3 Half Ironm
 
 ---
 
-#### **Week 1**  
+#### **Week 1 (Swim Focus)**  
 1. **Swim**: 1,500 meters  
    - Warm-up: 300m easy  
    - Main set: 4x200m moderate pace (20s rest), 4x100m race pace (15s rest)  
    - Cool-down: 200m easy  
 
-2. **Bike**: 40 km  
-   - Steady ride in Zone 2 (easy to moderate effort)  
+2. **Swim**: 1,800 meters  
+   - Warm-up: 400m easy  
+   - Main set: 6x150m moderate pace (20s rest), 4x50m sprint (15s rest)  
+   - Cool-down: 200m easy  
 
-3. **Run**: 8 km  
-   - Warm-up: 1 km easy  
-   - Main set: 6x3 minutes at Zone 4 (hard effort) with 2 minutes easy jog between intervals  
-   - Cool-down: 1 km easy  
-
-4. **Bike**: 50 km  
+3. **Bike**: 40 km  
    - Steady ride in Zone 2  
-   - Brick Run: 3 km easy off the bike  
+
+4. **Run**: 8 km  
+   - Warm-up: 1 km easy  
+   - Main set: 6x3 minutes at Zone 4 with 2 minutes easy jog between intervals  
+   - Cool-down: 1 km easy  
 
 5. **Run**: 12 km  
    - Long, easy run in Zone 2  
 
 ---
 
-#### **Week 2**  
-1. **Swim**: 1,800 meters  
+#### **Week 2 (Bike Focus)**  
+1. **Bike**: 50 km  
+   - Steady ride in Zone 2  
+
+2. **Bike**: 60 km  
+   - Steady ride in Zone 2  
+   - Brick Run: 3 km easy off the bike  
+
+3. **Swim**: 1,800 meters  
    - Warm-up: 400m easy  
    - Main set: 6x150m moderate pace (20s rest), 4x50m sprint (15s rest)  
    - Cool-down: 200m easy  
 
-2. **Run**: 10 km  
+4. **Run**: 10 km  
    - Warm-up: 1 km easy  
    - Main set: 8x3 minutes at Zone 4 with 2 minutes easy jog between intervals  
    - Cool-down: 1 km easy  
 
-3. **Bike**: 60 km  
-   - Steady ride in Zone 2  
-
-4. **Run**: 14 km  
+5. **Run**: 14 km  
    - Long, easy run in Zone 2  
-
-5. **Bike**: 50 km  
-   - Steady ride in Zone 2  
-   - Brick Run: 4 km easy off the bike  
 
 ---
 
-#### **Week 3**  
-1. **Swim**: 2,000 meters  
-   - Warm-up: 400m easy  
-   - Main set: 6x200m moderate pace (20s rest), 8x50m sprint (10s rest)  
-   - Cool-down: 200m easy  
-
-2. **Bike**: 70 km  
-   - Steady ride in Zone 2  
-
-3. **Run**: 12 km  
+#### **Week 3 (Run Focus)**  
+1. **Run**: 12 km  
    - Warm-up: 1 km easy  
    - Main set: 10x3 minutes at Zone 4 with 2 minutes easy jog between intervals  
    - Cool-down: 1 km easy  
 
-4. **Bike**: 60 km  
+2. **Run**: 16 km  
+   - Long, easy run in Zone 2  
+
+3. **Swim**: 2,000 meters  
+   - Warm-up: 400m easy  
+   - Main set: 6x200m moderate pace (20s rest), 8x50m sprint (10s rest)  
+   - Cool-down: 200m easy  
+
+4. **Bike**: 70 km  
+   - Steady ride in Zone 2  
+
+5. **Bike**: 60 km  
    - Steady ride in Zone 2  
    - Brick Run: 5 km easy off the bike  
 
-5. **Run**: 16 km  
-   - Long, easy run in Zone 2  
-
 ---
 
-#### **Week 4 (Recovery Week)**  
+#### **Week 4 (Swim Focus)**  
 1. **Swim**: 1,500 meters  
    - Easy technique-focused swim  
 
-2. **Bike**: 40 km  
+2. **Swim**: 1,800 meters  
+   - Warm-up: 400m easy  
+   - Main set: 6x150m moderate pace (20s rest), 4x50m sprint (15s rest)  
+   - Cool-down: 200m easy  
+
+3. **Bike**: 40 km  
    - Easy spin in Zone 2  
 
-3. **Run**: 8 km  
+4. **Run**: 8 km  
    - Easy run with 4x1-minute pickups at race pace  
 
-4. **Bike**: 50 km  
-   - Steady ride in Zone 2  
-   - Brick Run: 3 km easy off the bike  
-
 5. **Run**: 10 km  
-   - Long, easy run in Zone 2  
+   - Long, easy run in Zone 2 
 
 ---
 

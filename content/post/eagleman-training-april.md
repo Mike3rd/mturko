@@ -34,91 +34,95 @@ weight: 3
 
 ---  
 
-#### **Week 1**  
-1. **Swim**: 3,000 meters  
-   - Warm-up: 500m easy  
-   - Main set: 12x100m at race pace (15s rest), 8x50m sprint (10s rest)  
-   - Cool-down: 200m easy  
-
-2. **Bike**: 110 km  
-   - Steady ride in Zone 2  
-
-3. **Run**: 20 km  
+#### **Week 1 (Run Focus)**  
+1. **Run**: 20 km  
    - Warm-up: 1 km easy  
    - Main set: 10x3 minutes at Zone 4 with 2 minutes easy jog between intervals  
    - Cool-down: 1 km easy  
 
-4. **Bike**: 90 km  
+2. **Run**: 24 km  
+   - Long, easy run in Zone 2  
+
+3. **Swim**: 3,000 meters  
+   - Warm-up: 500m easy  
+   - Main set: 12x100m at race pace (15s rest), 8x50m sprint (10s rest)  
+   - Cool-down: 200m easy  
+
+4. **Bike**: 110 km  
+   - Steady ride in Zone 2  
+
+5. **Bike**: 90 km  
    - Steady ride in Zone 2  
    - Brick Run: 10 km easy off the bike  
 
-5. **Run**: 24 km  
-   - Long, easy run in Zone 2  
-
 ---
 
-#### **Week 2**  
+#### **Week 2 (Swim Focus)**  
 1. **Swim**: 3,500 meters  
    - Warm-up: 500m easy  
    - Main set: 15x100m at race pace (15s rest), 12x50m sprint (10s rest)  
    - Cool-down: 200m easy  
 
-2. **Run**: 22 km  
-   - Warm-up: 1 km easy  
-   - Main set: 12x3 minutes at Zone 4 with 2 minutes easy jog between intervals  
-   - Cool-down: 1 km easy  
+2. **Swim**: 3,200 meters  
+   - Warm-up: 500m easy  
+   - Main set: 12x100m at race pace (15s rest), 8x50m sprint (10s rest)  
+   - Cool-down: 200m easy  
 
 3. **Bike**: 120 km  
    - Steady ride in Zone 2  
 
-4. **Run**: 26 km  
-   - Long, easy run in Zone 2  
+4. **Run**: 22 km  
+   - Warm-up: 1 km easy  
+   - Main set: 12x3 minutes at Zone 4 with 2 minutes easy jog between intervals  
+   - Cool-down: 1 km easy  
 
-5. **Bike**: 100 km  
-   - Steady ride in Zone 2  
-   - Brick Run: 12 km easy off the bike  
+5. **Run**: 26 km  
+   - Long, easy run in Zone 2  
 
 ---
 
-#### **Week 3**  
-1. **Swim**: 3,500 meters  
+#### **Week 3 (Bike Focus)**  
+1. **Bike**: 130 km  
+   - Steady ride in Zone 2  
+
+2. **Bike**: 110 km  
+   - Steady ride in Zone 2  
+   - Brick Run: 14 km easy off the bike  
+
+3. **Swim**: 3,500 meters  
    - Warm-up: 500m easy  
    - Main set: 18x100m at race pace (15s rest), 15x50m sprint (10s rest)  
    - Cool-down: 200m easy  
 
-2. **Bike**: 130 km  
-   - Steady ride in Zone 2  
-
-3. **Run**: 24 km  
+4. **Run**: 24 km  
    - Warm-up: 1 km easy  
    - Main set: 15x3 minutes at Zone 4 with 2 minutes easy jog between intervals  
    - Cool-down: 1 km easy  
-
-4. **Bike**: 110 km  
-   - Steady ride in Zone 2  
-   - Brick Run: 14 km easy off the bike  
 
 5. **Run**: 28 km  
    - Long, easy run in Zone 2  
 
 ---
 
-#### **Week 4 (Recovery Week)**  
-1. **Swim**: 2,500 meters  
-   - Easy technique-focused swim  
-
-2. **Bike**: 80 km  
-   - Easy spin in Zone 2  
-
-3. **Run**: 16 km  
+#### **Week 4 (Run Focus)**  
+1. **Run**: 16 km  
    - Easy run with 4x1-minute pickups at race pace  
 
-4. **Bike**: 90 km  
-   - Steady ride in Zone 2  
-   - Brick Run: 8 km easy off the bike  
-
-5. **Run**: 20 km  
+2. **Run**: 20 km  
    - Long, easy run in Zone 2  
+
+3. **Swim**: 2,500 meters  
+   - Easy technique-focused swim  
+
+4. **Bike**: 80 km  
+   - Easy spin in Zone 2  
+
+5. **Bike**: 90 km  
+   - Steady ride in Zone 2  
+   - Brick Run: 8 km easy off the bike 
+   
+   ---
+   
    
 ### **April Key Notes (Peak Phase)**  
 **Focus**: Maximize race-specific fitness, fine-tune pacing, and practice race-day execution.
@@ -160,4 +164,7 @@ weight: 3
 - **Mental Preparation**: Visualize race day and practice positive self-talk during tough workouts.  
 - **Gear Check**: Test your race-day gear (e.g., wetsuit, bike, shoes) during training to ensure everything works well.
 - **Conversions**: 1 km = .62 mi., 1 m = 3.28 ft.
-- **70.3 Ironman**: 1.2 mi. Swim, 56 mi. Bike, 13.1 mi. Run     
+- **70.3 Ironman**: 1.2 mi. Swim, 56 mi. Bike, 13.1 mi. Run 
+
+---
+    
