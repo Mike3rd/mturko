@@ -8,8 +8,11 @@ image: ""
 tags: [Training, Eagleman]
 weight: 3
 ---
-### **April Training Plan (Peak Phase)**  
+### **April Training Plan (Peak Phase)** 🏊‍♂️🚴‍♂️🏃‍♂️
 **Focus**: Maximize race-specific fitness, practice pacing, and fine-tune nutrition.
+
+---
+
 
 #### **Weekly Structure**  
 1. **Swim**: 2–3 sessions (3,000–4,000 meters per session)  
@@ -36,123 +39,89 @@ weight: 3
 ---  
 
 #### **Week 1**  
-1. **Swim**: 3,000–3,500 meters  
+1. **Swim**: 3,000 meters  
    - Warm-up: 500m easy  
    - Main set: 12x100m at race pace (15s rest), 8x50m sprint (10s rest)  
    - Cool-down: 200m easy  
 
-2. **Bike**: 3.5 hours  
-   - Warm-up: 15 minutes easy  
-   - Main set: 5x12 minutes at Zone 3 with 3 minutes easy between intervals  
-   - Cool-down: 10 minutes easy  
-
-3. **Run**: 75–90 minutes  
-   - Warm-up: 10 minutes easy  
-   - Main set: 10x3 minutes at Zone 4 with 2 minutes easy jog between intervals  
-   - Cool-down: 10 minutes easy  
-
-4. **Swim**: 3,500–4,000 meters  
-   - Warm-up: 500m easy  
-   - Main set: 15x100m at race pace (15s rest), 10x50m sprint (10s rest)  
-   - Cool-down: 200m easy  
-
-5. **Strength Training**: 45 minutes  
-
-6. **Bike**: 4.5 hours  
+2. **Bike**: 110 km  
    - Steady ride in Zone 2  
-   - Brick Run: 60 minutes easy off the bike  
 
-7. **Run**: 135–150 minutes  
+3. **Run**: 20 km  
+   - Warm-up: 1 km easy  
+   - Main set: 10x3 minutes at Zone 4 with 2 minutes easy jog between intervals  
+   - Cool-down: 1 km easy  
+
+4. **Bike**: 90 km  
+   - Steady ride in Zone 2  
+   - Brick Run: 10 km easy off the bike  
+
+5. **Run**: 24 km  
    - Long, easy run in Zone 2  
 
 ---
 
 #### **Week 2**  
-1. **Swim**: 3,500–4,000 meters  
+1. **Swim**: 3,500 meters  
    - Warm-up: 500m easy  
    - Main set: 15x100m at race pace (15s rest), 12x50m sprint (10s rest)  
    - Cool-down: 200m easy  
 
-2. **Bike**: 4 hours  
-   - Warm-up: 15 minutes easy  
-   - Main set: 6x10 minutes at Zone 4 with 3 minutes easy between intervals  
-   - Cool-down: 10 minutes easy  
-
-3. **Run**: 90–105 minutes  
-   - Warm-up: 10 minutes easy  
+2. **Run**: 22 km  
+   - Warm-up: 1 km easy  
    - Main set: 12x3 minutes at Zone 4 with 2 minutes easy jog between intervals  
-   - Cool-down: 10 minutes easy  
+   - Cool-down: 1 km easy  
 
-4. **Swim**: 4,000 meters  
-   - Warm-up: 500m easy  
-   - Main set: 20x100m at race pace (15s rest), 12x50m sprint (10s rest)  
-   - Cool-down: 200m easy  
-
-5. **Strength Training**: 45 minutes  
-
-6. **Bike**: 5 hours  
+3. **Bike**: 120 km  
    - Steady ride in Zone 2  
-   - Brick Run: 60–70 minutes easy off the bike  
 
-7. **Run**: 150 minutes  
+4. **Run**: 26 km  
    - Long, easy run in Zone 2  
+
+5. **Bike**: 100 km  
+   - Steady ride in Zone 2  
+   - Brick Run: 12 km easy off the bike  
 
 ---
 
 #### **Week 3**  
-1. **Swim**: 3,500–4,000 meters  
+1. **Swim**: 3,500 meters  
    - Warm-up: 500m easy  
    - Main set: 18x100m at race pace (15s rest), 15x50m sprint (10s rest)  
    - Cool-down: 200m easy  
 
-2. **Bike**: 4.5 hours  
-   - Warm-up: 15 minutes easy  
-   - Main set: 7x10 minutes at Zone 4 with 3 minutes easy between intervals  
-   - Cool-down: 10 minutes easy  
-
-3. **Run**: 105–120 minutes  
-   - Warm-up: 10 minutes easy  
-   - Main set: 15x3 minutes at Zone 4 with 2 minutes easy jog between intervals  
-   - Cool-down: 10 minutes easy  
-
-4. **Swim**: 4,000 meters  
-   - Warm-up: 500m easy  
-   - Main set: 20x100m at race pace (15s rest), 15x50m sprint (10s rest)  
-   - Cool-down: 200m easy  
-
-5. **Strength Training**: 45 minutes  
-
-6. **Bike**: 5.5 hours  
+2. **Bike**: 130 km  
    - Steady ride in Zone 2  
-   - Brick Run: 70–80 minutes easy off the bike  
 
-7. **Run**: 180 minutes  
+3. **Run**: 24 km  
+   - Warm-up: 1 km easy  
+   - Main set: 15x3 minutes at Zone 4 with 2 minutes easy jog between intervals  
+   - Cool-down: 1 km easy  
+
+4. **Bike**: 110 km  
+   - Steady ride in Zone 2  
+   - Brick Run: 14 km easy off the bike  
+
+5. **Run**: 28 km  
    - Long, easy run in Zone 2  
 
 ---
 
 #### **Week 4 (Recovery Week)**  
-1. **Swim**: 2,500–3,000 meters  
+1. **Swim**: 2,500 meters  
    - Easy technique-focused swim  
 
-2. **Bike**: 2.5 hours  
+2. **Bike**: 80 km  
    - Easy spin in Zone 2  
 
-3. **Run**: 75 minutes  
+3. **Run**: 16 km  
    - Easy run with 4x1-minute pickups at race pace  
 
-4. **Swim**: 3,000 meters  
-   - Warm-up: 500m easy  
-   - Main set: 10x100m at race pace (15s rest), 8x50m sprint (10s rest)  
-   - Cool-down: 200m easy  
-
-5. **Rest or Light Strength Training**: 30–45 minutes  
-
-6. **Bike**: 3 hours  
+4. **Bike**: 90 km  
    - Steady ride in Zone 2  
-   - Brick Run: 40–50 minutes easy off the bike  
+   - Brick Run: 8 km easy off the bike  
 
-7. **Run**: 120 minutes  
+5. **Run**: 20 km  
    - Long, easy run in Zone 2  
    
 ### **April Key Notes (Peak Phase)**  
