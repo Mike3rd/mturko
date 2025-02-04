@@ -83,7 +83,8 @@ Got it! Here’s the **May Taper Phase** plan in the same format, with **5 worko
 
 ---
 
-#### **Week 3 (May 15–21) – Run Focus**  
+#### **Week 3 (May 15–21) – Run Focus**
+### **Saturday, May 17 – French Creek Trifest**🏊‍♂️🚴‍♂️🏃‍♂️    
 1. **Run**: 8 km  
    - Easy run with 4x1-minute pickups at race pace  
 
