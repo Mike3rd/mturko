@@ -36,7 +36,7 @@ Here’s a **weekly summary** of your February workouts for your 70.3 Half Ironm
    - Main set: 6x150m moderate pace (20s rest), 4x50m sprint (15s rest)  
    - Cool-down: 200m easy  
 
-3. **Bike**: 40 km  
+3. **Bike**: 40 km (1.5 hrs)  
    - Steady ride in Zone 2  
 
 4. **Run**: 8 km  
@@ -50,10 +50,10 @@ Here’s a **weekly summary** of your February workouts for your 70.3 Half Ironm
 ---
 
 #### **Week 2 (Bike Focus)**  
-1. **Bike**: 50 km  
+1. **Bike**: 50 km (75-90 mins) 
    - Steady ride in Zone 2  
 
-2. **Bike**: 60 km  
+2. **Bike**: 60 km (2 hrs) 
    - Steady ride in Zone 2  
    - Brick Run: 3 km easy off the bike  
 
@@ -86,10 +86,10 @@ Here’s a **weekly summary** of your February workouts for your 70.3 Half Ironm
    - Main set: 6x200m moderate pace (20s rest), 8x50m sprint (10s rest)  
    - Cool-down: 200m easy  
 
-4. **Bike**: 70 km  
+4. **Bike**: 70 km  (2.5 hours)
    - Steady ride in Zone 2  
 
-5. **Bike**: 60 km  
+5. **Bike**: 60 km  (90 mins)
    - Steady ride in Zone 2  
    - Brick Run: 5 km easy off the bike  
 
@@ -104,7 +104,7 @@ Here’s a **weekly summary** of your February workouts for your 70.3 Half Ironm
    - Main set: 6x150m moderate pace (20s rest), 4x50m sprint (15s rest)  
    - Cool-down: 200m easy  
 
-3. **Bike**: 40 km  
+3. **Bike**: 40 km  (90 mins)
    - Easy spin in Zone 2  
 
 4. **Run**: 8 km  

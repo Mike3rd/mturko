@@ -47,7 +47,7 @@ Got it! Here’s the **May Taper Phase** plan in the same format, with **5 worko
    - Main set: 8x100m at race pace (15s rest), 6x50m sprint (10s rest)  
    - Cool-down: 200m easy  
 
-3. **Bike**: 60 km  
+3. **Bike**: 60 km  (2.5-3 hrs)
    - Steady ride in Zone 2  
 
 4. **Run**: 12 km  
@@ -61,10 +61,10 @@ Got it! Here’s the **May Taper Phase** plan in the same format, with **5 worko
 ---
 
 #### **Week 2 (May 8–14) – Bike Focus**  
-1. **Bike**: 50 km  
+1. **Bike**: 50 km  (2 hours)
    - Steady ride in Zone 2  
 
-2. **Bike**: 60 km  
+2. **Bike**: 60 km  (2.5 hours)
    - Steady ride in Zone 2  
    - Brick Run: 4 km easy off the bike  
 
@@ -93,10 +93,10 @@ Got it! Here’s the **May Taper Phase** plan in the same format, with **5 worko
 3. **Swim**: 1,500 meters  
    - Easy technique-focused swim  
 
-4. **Bike**: 40 km  
+4. **Bike**: 40 km  (1 hr)
    - Easy spin in Zone 2  
 
-5. **Bike**: 50 km  
+5. **Bike**: 50 km  (1.5 hours)
    - Steady ride in Zone 2  
    - Brick Run: 3 km easy off the bike  
 
@@ -109,7 +109,7 @@ Got it! Here’s the **May Taper Phase** plan in the same format, with **5 worko
 2. **Swim**: 1,000 meters  
    - Easy swim with 4x100m at race pace  
 
-3. **Bike**: 30 km  
+3. **Bike**: 30 km  (1 hr)
    - Easy spin in Zone 2  
 
 4. **Run**: 6 km  

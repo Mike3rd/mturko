@@ -48,10 +48,10 @@ weight: 3
    - Main set: 12x100m at race pace (15s rest), 8x50m sprint (10s rest)  
    - Cool-down: 200m easy  
 
-4. **Bike**: 110 km  
+4. **Bike**: 110 km (4.5 hrs) 
    - Steady ride in Zone 2  
 
-5. **Bike**: 90 km  
+5. **Bike**: 90 km  (3.5 hrs)
    - Steady ride in Zone 2  
    - Brick Run: 10 km easy off the bike  
 
@@ -68,7 +68,7 @@ weight: 3
    - Main set: 12x100m at race pace (15s rest), 8x50m sprint (10s rest)  
    - Cool-down: 200m easy  
 
-3. **Bike**: 120 km  
+3. **Bike**: 120 km  (5 hrs)
    - Steady ride in Zone 2  
 
 4. **Run**: 22 km  
@@ -82,10 +82,10 @@ weight: 3
 ---
 
 #### **Week 3 (Bike Focus)**  
-1. **Bike**: 130 km  
+1. **Bike**: 130 km  (5.5 hrs)
    - Steady ride in Zone 2  
 
-2. **Bike**: 110 km  
+2. **Bike**: 110 km  (4.5 hrs)
    - Steady ride in Zone 2  
    - Brick Run: 14 km easy off the bike  
 
@@ -114,10 +114,10 @@ weight: 3
 3. **Swim**: 2,500 meters  
    - Easy technique-focused swim  
 
-4. **Bike**: 80 km  
+4. **Bike**: 80 km  (2.5 hrs)
    - Easy spin in Zone 2  
 
-5. **Bike**: 90 km  
+5. **Bike**: 90 km (3 hrs) 
    - Steady ride in Zone 2  
    - Brick Run: 8 km easy off the bike 
    

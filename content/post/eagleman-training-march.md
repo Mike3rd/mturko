@@ -27,10 +27,10 @@ weight: 2
 ---
 
 #### **Week 1 (Bike Focus)**  
-1. **Bike**: 80 km  
+1. **Bike**: 80 km  (2-2.5 hrs)
    - Steady ride in Zone 2  
 
-2. **Bike**: 90 km  
+2. **Bike**: 90 km (3 hrs) 
    - Steady ride in Zone 2  
    - Brick Run: 6 km easy off the bike  
 
@@ -63,10 +63,10 @@ weight: 2
    - Main set: 8x150m moderate pace (20s rest), 8x50m sprint (10s rest)  
    - Cool-down: 200m easy  
 
-4. **Bike**: 90 km  
+4. **Bike**: 90 km  (3.5 hrs)
    - Steady ride in Zone 2  
 
-5. **Bike**: 70 km  
+5. **Bike**: 70 km  (2.5-3 hrs)
    - Steady ride in Zone 2  
    - Brick Run: 7 km easy off the bike  
 
@@ -83,7 +83,7 @@ weight: 2
    - Main set: 12x100m at race pace (15s rest), 8x50m sprint (10s rest)  
    - Cool-down: 200m easy  
 
-3. **Bike**: 100 km  
+3. **Bike**: 100 km  (4 hrs)
    - Steady ride in Zone 2  
 
 4. **Run**: 18 km  
@@ -97,10 +97,10 @@ weight: 2
 ---
 
 #### **Week 4 (Bike Focus)**  
-1. **Bike**: 80 km  
+1. **Bike**: 80 km  (2 hrs)
    - Steady ride in Zone 2  
 
-2. **Bike**: 90 km  
+2. **Bike**: 90 km  (2.5 hours)
    - Steady ride in Zone 2  
    - Brick Run: 8 km easy off the bike  
 
