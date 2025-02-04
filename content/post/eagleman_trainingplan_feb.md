@@ -154,14 +154,16 @@ Here’s a **weekly summary** of your February workouts for your 70.3 Half Ironm
 - **70.3 Ironman**: 1.2 mi. Swim, 56 mi. Bike, 13.1 mi. Run
 - **Zones**: Use heart rate, power, or perceived effort to gauge intensity.
 
-| Zones | BPM | % |
-| :------ |:--- | :--- |
-| Zone 1 | 81-97| 50 |
-| Zone 2 | 97-113 | 60 |
-| Zone 3 | 113-130 | 70 |
-| Zone 4 | 130-146 | 80 |
-| Zone 5 | 146-162 | 90 |
-| Max HR | 162 | 100 |
+---
+
+| Zone | BPM | PE | % HR|
+| :------ |:--- | :--- | :--- |
+| Zone 1 | 81-97| Easy conversation |50 |
+| Zone 2 | 97-113 | Talk in full sentences, but breathing harder |60 |
+| Zone 3 | 113-130 | One or two-word phrases | 70 |
+| Zone 4 | 130-146 | Conversation is very difficult |80 |
+| Zone 5 | 146-162 | All out, can't talk |90 |
+| Max HR | 162 | |100 |
 
 ---
 
