@@ -26,92 +26,92 @@ Here’s a **weekly summary** of your February workouts for your 70.3 Half Ironm
 ---
 
 #### **Week 1 (Swim Focus)**  
-1. **Swim**: 1,500 meters  
-   - Warm-up: 300m easy  
-   - Main set: 4x200m moderate pace (20s rest), 4x100m race pace (15s rest)  
-   - Cool-down: 200m easy  
+1. **Swim**: 1,650 yards  
+   - Warm-up: 300 yards easy  
+   - Main set: 4x200 yards moderate pace (20s rest), 4x100 yards race pace (15s rest)  
+   - Cool-down: 200 yards easy  
 
-2. **Swim**: 1,800 meters  
-   - Warm-up: 400m easy  
-   - Main set: 6x150m moderate pace (20s rest), 4x50m sprint (15s rest)  
-   - Cool-down: 200m easy  
+2. **Swim**: 2,000 yards  
+   - Warm-up: 400 yards easy  
+   - Main set: 6x150 yards moderate pace (20s rest), 4x50 yards sprint (15s rest)  
+   - Cool-down: 200 yards easy  
 
-3. **Bike**: 40 km (1.5 hrs)  
+3. **Bike**: 25 miles (1.5 hrs)  
    - Steady ride in Zone 2  
 
-4. **Run**: 8 km  
-   - Warm-up: 1 km easy  
+4. **Run**: 5 miles  
+   - Warm-up: 0.6 miles easy  
    - Main set: 6x3 minutes at Zone 4 with 2 minutes easy jog between intervals  
-   - Cool-down: 1 km easy  
+   - Cool-down: 0.6 miles easy  
 
-5. **Run**: 12 km  
+5. **Run**: 7.5 miles  
    - Long, easy run in Zone 2  
 
 ---
 
 #### **Week 2 (Bike Focus)**  
-1. **Bike**: 50 km (75-90 mins) 
+1. **Bike**: 30 miles  (75-90 mins) 
    - Steady ride in Zone 2  
 
-2. **Bike**: 60 km (2 hrs) 
+2. **Bike**: 35 miles  (2 hrs)  
    - Steady ride in Zone 2  
-   - Brick Run: 3 km easy off the bike  
+   - Brick Run: 2 miles easy off the bike  
 
-3. **Swim**: 1,800 meters  
-   - Warm-up: 400m easy  
-   - Main set: 6x150m moderate pace (20s rest), 4x50m sprint (15s rest)  
-   - Cool-down: 200m easy  
+3. **Swim**: 2,000 yards  
+   - Warm-up: 400 yards easy  
+   - Main set: 6x150 yards moderate pace (20s rest), 4x50 yards sprint (15s rest)  
+   - Cool-down: 200 yards easy  
 
-4. **Run**: 10 km  
-   - Warm-up: 1 km easy  
+4. **Run**: 6 miles  
+   - Warm-up: 0.6 miles easy  
    - Main set: 8x3 minutes at Zone 4 with 2 minutes easy jog between intervals  
-   - Cool-down: 1 km easy  
+   - Cool-down: 0.6 miles easy  
 
-5. **Run**: 14 km  
-   - Long, easy run in Zone 2  
+5. **Run**: 8.5 miles  
+   - Long, easy run in Zone 2   
 
 ---
 
-#### **Week 3 (Run Focus)**  
-1. **Run**: 12 km  
-   - Warm-up: 1 km easy  
+#### **Week 3 (Run Focus)**   
+1. **Run**: 7.5 miles  
+   - Warm-up: 0.6 miles easy  
    - Main set: 10x3 minutes at Zone 4 with 2 minutes easy jog between intervals  
-   - Cool-down: 1 km easy  
+   - Cool-down: 0.6 miles easy  
 
-2. **Run**: 16 km  
+2. **Run**: 10 miles  
    - Long, easy run in Zone 2  
 
-3. **Swim**: 2,000 meters  
-   - Warm-up: 400m easy  
-   - Main set: 6x200m moderate pace (20s rest), 8x50m sprint (10s rest)  
-   - Cool-down: 200m easy  
+3. **Swim**: 2,200 yards  
+   - Warm-up: 400 yards easy  
+   - Main set: 6x200 yards moderate pace (20s rest), 8x50 yards sprint (10s rest)  
+   - Cool-down: 200 yards easy  
 
-4. **Bike**: 70 km  (2.5 hours)
+4. **Bike**: 40 miles (2.5 hours) 
    - Steady ride in Zone 2  
 
-5. **Bike**: 60 km  (90 mins)
+5. **Bike**: 35 miles (90 mins) 
    - Steady ride in Zone 2  
-   - Brick Run: 5 km easy off the bike  
+   - Brick Run: 3 miles easy off the bike  
 
 ---
 
 #### **Week 4 (Swim Focus)**  
-1. **Swim**: 1,500 meters  
+1. **Swim**: 1,650 yards  
    - Easy technique-focused swim  
 
-2. **Swim**: 1,800 meters  
-   - Warm-up: 400m easy  
-   - Main set: 6x150m moderate pace (20s rest), 4x50m sprint (15s rest)  
-   - Cool-down: 200m easy  
+2. **Swim**: 2,000 yards  
+   - Warm-up: 400 yards easy  
+   - Main set: 6x150 yards moderate pace (20s rest), 4x50 yards sprint (15s rest)  
+   - Cool-down: 200 yards easy  
 
-3. **Bike**: 40 km  (90 mins)
+3. **Bike**: 25 miles (90 mins)  
    - Easy spin in Zone 2  
 
-4. **Run**: 8 km  
+4. **Run**: 5 miles  
    - Easy run with 4x1-minute pickups at race pace  
 
-5. **Run**: 10 km  
-   - Long, easy run in Zone 2 
+5. **Run**: 6 miles  
+   - Long, easy run in Zone 2  
 
 ---
 
