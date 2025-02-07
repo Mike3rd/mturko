@@ -27,93 +27,93 @@ weight: 2
 ---
 
 #### **Week 1 (Bike Focus)**  
-1. **Bike**: 80 km  (2-2.5 hrs)
+1. **Bike**: 50 miles (2-2.5 hrs)  
    - Steady ride in Zone 2  
 
-2. **Bike**: 90 km (3 hrs) 
+2. **Bike**: 55 miles (3 hrs) 
    - Steady ride in Zone 2  
-   - Brick Run: 6 km easy off the bike  
+   - Brick Run: 4 miles easy off the bike  
 
-3. **Swim**: 2,500 meters  
-   - Warm-up: 500m easy  
-   - Main set: 6x200m moderate pace (20s rest), 8x50m sprint (10s rest)  
-   - Cool-down: 200m easy  
+3. **Swim**: 2,750 yards  
+   - Warm-up: 500 yards easy  
+   - Main set: 6x200 yards moderate pace (20s rest), 8x50 yards sprint (10s rest)  
+   - Cool-down: 200 yards easy  
 
-4. **Run**: 14 km  
-   - Warm-up: 1 km easy  
+4. **Run**: 8.5 miles  
+   - Warm-up: 0.6 miles easy  
    - Main set: 8x3 minutes at Zone 4 with 2 minutes easy jog between intervals  
-   - Cool-down: 1 km easy  
+   - Cool-down: 0.6 miles easy  
 
-5. **Run**: 18 km  
+5. **Run**: 11 miles  
    - Long, easy run in Zone 2  
 
 ---
 
 #### **Week 2 (Run Focus)**  
-1. **Run**: 16 km  
-   - Warm-up: 1 km easy  
+1. **Run**: 10 miles  
+   - Warm-up: 0.6 miles easy  
    - Main set: 10x3 minutes at Zone 4 with 2 minutes easy jog between intervals  
-   - Cool-down: 1 km easy  
+   - Cool-down: 0.6 miles easy  
 
-2. **Run**: 20 km  
+2. **Run**: 12.5 miles  
    - Long, easy run in Zone 2  
 
-3. **Swim**: 2,800 meters  
-   - Warm-up: 500m easy  
-   - Main set: 8x150m moderate pace (20s rest), 8x50m sprint (10s rest)  
-   - Cool-down: 200m easy  
+3. **Swim**: 3,000 yards  
+   - Warm-up: 500 yards easy  
+   - Main set: 8x150 yards moderate pace (20s rest), 8x50 yards sprint (10s rest)  
+   - Cool-down: 200 yards easy  
 
-4. **Bike**: 90 km  (3.5 hrs)
+4. **Bike**: 55 miles (3.5 hrs)  
    - Steady ride in Zone 2  
 
-5. **Bike**: 70 km  (2.5-3 hrs)
+5. **Bike**: 45 miles (2.5-3 hrs) 
    - Steady ride in Zone 2  
-   - Brick Run: 7 km easy off the bike  
+   - Brick Run: 4.5 miles easy off the bike  
 
 ---
 
 #### **Week 3 (Swim Focus)**  
-1. **Swim**: 3,000 meters  
-   - Warm-up: 500m easy  
-   - Main set: 10x100m moderate pace (15s rest), 10x50m sprint (10s rest)  
-   - Cool-down: 200m easy  
+1. **Swim**: 3,300 yards  
+   - Warm-up: 500 yards easy  
+   - Main set: 10x100 yards moderate pace (15s rest), 10x50 yards sprint (10s rest)  
+   - Cool-down: 200 yards easy  
 
-2. **Swim**: 3,200 meters  
-   - Warm-up: 500m easy  
-   - Main set: 12x100m at race pace (15s rest), 8x50m sprint (10s rest)  
-   - Cool-down: 200m easy  
+2. **Swim**: 3,500 yards  
+   - Warm-up: 500 yards easy  
+   - Main set: 12x100 yards at race pace (15s rest), 8x50 yards sprint (10s rest)  
+   - Cool-down: 200 yards easy  
 
-3. **Bike**: 100 km  (4 hrs)
+3. **Bike**: 60 miles (4 hrs) 
    - Steady ride in Zone 2  
 
-4. **Run**: 18 km  
-   - Warm-up: 1 km easy  
+4. **Run**: 11 miles  
+   - Warm-up: 0.6 miles easy  
    - Main set: 12x3 minutes at Zone 4 with 2 minutes easy jog between intervals  
-   - Cool-down: 1 km easy  
+   - Cool-down: 0.6 miles easy  
 
-5. **Run**: 22 km  
+5. **Run**: 14 miles  
    - Long, easy run in Zone 2  
 
 ---
 
 #### **Week 4 (Bike Focus)**  
-1. **Bike**: 80 km  (2 hrs)
+1. **Bike**: 50 miles (2 hrs)  
    - Steady ride in Zone 2  
 
-2. **Bike**: 90 km  (2.5 hours)
+2. **Bike**: 55 miles (2.5 hrs)  
    - Steady ride in Zone 2  
-   - Brick Run: 8 km easy off the bike  
+   - Brick Run: 5 miles easy off the bike  
 
-3. **Swim**: 2,500 meters  
-   - Warm-up: 500m easy  
-   - Main set: 10x100m at race pace (15s rest), 6x50m sprint (10s rest)  
-   - Cool-down: 200m easy  
+3. **Swim**: 2,750 yards  
+   - Warm-up: 500 yards easy  
+   - Main set: 10x100 yards at race pace (15s rest), 6x50 yards sprint (10s rest)  
+   - Cool-down: 200 yards easy  
 
-4. **Run**: 16 km  
+4. **Run**: 10 miles  
    - Easy run with 4x1-minute pickups at race pace  
 
-5. **Run**: 20 km  
-   - Long, easy run in Zone 2 
+5. **Run**: 12.5 miles  
+   - Long, easy run in Zone 2  
 
 ---
 

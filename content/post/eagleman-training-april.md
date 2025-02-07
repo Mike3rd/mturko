@@ -35,91 +35,91 @@ weight: 3
 ---  
 
 #### **Week 1 (Run Focus)**  
-1. **Run**: 20 km  
-   - Warm-up: 1 km easy  
+1. **Run**: 12.5 miles  
+   - Warm-up: 0.6 miles easy  
    - Main set: 10x3 minutes at Zone 4 with 2 minutes easy jog between intervals  
-   - Cool-down: 1 km easy  
+   - Cool-down: 0.6 miles easy  
 
-2. **Run**: 24 km  
+2. **Run**: 15 miles  
    - Long, easy run in Zone 2  
 
-3. **Swim**: 3,000 meters  
-   - Warm-up: 500m easy  
-   - Main set: 12x100m at race pace (15s rest), 8x50m sprint (10s rest)  
-   - Cool-down: 200m easy  
+3. **Swim**: 3,300 yards  
+   - Warm-up: 500 yards easy  
+   - Main set: 12x100 yards at race pace (15s rest), 8x50 yards sprint (10s rest)  
+   - Cool-down: 200 yards easy  
 
-4. **Bike**: 110 km (4.5 hrs) 
+4. **Bike**: 65 miles (4.5 hrs)  
    - Steady ride in Zone 2  
 
-5. **Bike**: 90 km  (3.5 hrs)
+5. **Bike**: 55 miles  (3.5 hrs) 
    - Steady ride in Zone 2  
-   - Brick Run: 10 km easy off the bike  
+   - Brick Run: 6 miles easy off the bike  
 
 ---
 
 #### **Week 2 (Swim Focus)**  
-1. **Swim**: 3,500 meters  
-   - Warm-up: 500m easy  
-   - Main set: 15x100m at race pace (15s rest), 12x50m sprint (10s rest)  
-   - Cool-down: 200m easy  
+1. **Swim**: 3,800 yards  
+   - Warm-up: 500 yards easy  
+   - Main set: 15x100 yards at race pace (15s rest), 12x50 yards sprint (10s rest)  
+   - Cool-down: 200 yards easy  
 
-2. **Swim**: 3,200 meters  
-   - Warm-up: 500m easy  
-   - Main set: 12x100m at race pace (15s rest), 8x50m sprint (10s rest)  
-   - Cool-down: 200m easy  
+2. **Swim**: 3,500 yards  
+   - Warm-up: 500 yards easy  
+   - Main set: 12x100 yards at race pace (15s rest), 8x50 yards sprint (10s rest)  
+   - Cool-down: 200 yards easy  
 
-3. **Bike**: 120 km  (5 hrs)
+3. **Bike**: 75 miles (5 hrs) 
    - Steady ride in Zone 2  
 
-4. **Run**: 22 km  
-   - Warm-up: 1 km easy  
+4. **Run**: 14 miles  
+   - Warm-up: 0.6 miles easy  
    - Main set: 12x3 minutes at Zone 4 with 2 minutes easy jog between intervals  
-   - Cool-down: 1 km easy  
+   - Cool-down: 0.6 miles easy  
 
-5. **Run**: 26 km  
+5. **Run**: 16 miles  
    - Long, easy run in Zone 2  
 
 ---
 
 #### **Week 3 (Bike Focus)**  
-1. **Bike**: 130 km  (5.5 hrs)
+1. **Bike**: 80 miles (5.5 hrs) 
    - Steady ride in Zone 2  
 
-2. **Bike**: 110 km  (4.5 hrs)
+2. **Bike**: 70 miles (4.5 hrs) 
    - Steady ride in Zone 2  
-   - Brick Run: 14 km easy off the bike  
+   - Brick Run: 9 miles easy off the bike  
 
-3. **Swim**: 3,500 meters  
-   - Warm-up: 500m easy  
-   - Main set: 18x100m at race pace (15s rest), 15x50m sprint (10s rest)  
-   - Cool-down: 200m easy  
+3. **Swim**: 3,800 yards  
+   - Warm-up: 500 yards easy  
+   - Main set: 18x100 yards at race pace (15s rest), 15x50 yards sprint (10s rest)  
+   - Cool-down: 200 yards easy  
 
-4. **Run**: 24 km  
-   - Warm-up: 1 km easy  
+4. **Run**: 15 miles  
+   - Warm-up: 0.6 miles easy  
    - Main set: 15x3 minutes at Zone 4 with 2 minutes easy jog between intervals  
-   - Cool-down: 1 km easy  
+   - Cool-down: 0.6 miles easy  
 
-5. **Run**: 28 km  
+5. **Run**: 17.5 miles  
    - Long, easy run in Zone 2  
 
 ---
 
 #### **Week 4 (Run Focus)**  
-1. **Run**: 16 km  
+1. **Run**: 10 miles  
    - Easy run with 4x1-minute pickups at race pace  
 
-2. **Run**: 20 km  
+2. **Run**: 12.4 miles  
    - Long, easy run in Zone 2  
 
-3. **Swim**: 2,500 meters  
+3. **Swim**: 2,700 yards  
    - Easy technique-focused swim  
 
-4. **Bike**: 80 km  (2.5 hrs)
+4. **Bike**: 49.6 miles  (2.5 hrs)
    - Easy spin in Zone 2  
 
-5. **Bike**: 90 km (3 hrs) 
+5. **Bike**: 55.8 miles (3 hrs) 
    - Steady ride in Zone 2  
-   - Brick Run: 8 km easy off the bike 
+   - Brick Run: 5 miles easy off the bike 
    
    ---
    
@@ -163,7 +163,7 @@ weight: 3
 - **Listen to Your Body**: Adjust intensity or take extra rest if you feel fatigued or sore.  
 - **Mental Preparation**: Visualize race day and practice positive self-talk during tough workouts.  
 - **Gear Check**: Test your race-day gear (e.g., wetsuit, bike, shoes) during training to ensure everything works well.
-- **Conversions**: 1 km = .62 mi., 1 m = 3.28 ft.
+- **Conversions**: 1 km = .62 mi., 1 m = 1.09 yd.
 - **70.3 Ironman**: 1.2 mi. Swim, 56 mi. Bike, 13.1 mi. Run 
 
 ---

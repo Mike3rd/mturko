@@ -15,21 +15,21 @@ weight: 5
 ---
 
 #### **Race Week (June 1–7, 2025)**  
-1. **Swim**: 1,500 meters  
+1. **Swim**: 1,650 yards  
    - Easy technique-focused swim with a few race-pace efforts.  
 
-2. **Bike**: 20 km  
+2. **Bike**: 12 miles  
    - Easy spin with 2x5 minutes at race pace.  
 
-3. **Run**: 5 km  
+3. **Run**: 3 miles  
    - Easy run with 2x3 minutes at race pace.  
 
-4. **Swim**: 1,000 meters  
-   - Easy swim with 4x100m at race pace.  
+4. **Swim**: 1,100 yards  
+   - Easy swim with 4x100 yards at race pace.  
 
-5. **Bike**: 15 km  
+5. **Bike**: 10 miles  
    - Easy spin with 2x3 minutes at race pace.  
-   - Brick Run: 1 km easy off the bike.  
+   - Brick Run: 0.6 miles easy off the bike.   
 
 6. **Race Day!**  
    - Stick to your nutrition plan, pace yourself, and enjoy the experience!

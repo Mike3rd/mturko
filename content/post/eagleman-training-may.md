@@ -36,87 +36,86 @@ Got it! Here’s the **May Taper Phase** plan in the same format, with **5 worko
 
 ---
 
-#### **Week 1 (May 1–7) – Swim Focus**  
-1. **Swim**: 2,500 meters  
-   - Warm-up: 500m easy  
-   - Main set: 10x100m at race pace (15s rest), 6x50m sprint (10s rest)  
-   - Cool-down: 200m easy  
+#### **Week 1 (Swim Focus)**  
+1. **Swim**: 2,750 yards  
+   - Warm-up: 500 yards easy  
+   - Main set: 10x100 yards at race pace (15s rest), 6x50 yards sprint (10s rest)  
+   - Cool-down: 200 yards easy  
 
-2. **Swim**: 2,000 meters  
-   - Warm-up: 500m easy  
-   - Main set: 8x100m at race pace (15s rest), 6x50m sprint (10s rest)  
-   - Cool-down: 200m easy  
+2. **Swim**: 2,200 yards  
+   - Warm-up: 500 yards easy  
+   - Main set: 8x100 yards at race pace (15s rest), 6x50 yards sprint (10s rest)  
+   - Cool-down: 200 yards easy  
 
-3. **Bike**: 60 km  (2.5-3 hrs)
+3. **Bike**: 35 miles (2.5-3 hrs)  
    - Steady ride in Zone 2  
 
-4. **Run**: 12 km  
-   - Warm-up: 1 km easy  
+4. **Run**: 7.5 miles  
+   - Warm-up: 0.6 miles easy  
    - Main set: 8x3 minutes at Zone 4 with 2 minutes easy jog between intervals  
-   - Cool-down: 1 km easy  
+   - Cool-down: 0.6 miles easy  
 
-5. **Run**: 16 km  
+5. **Run**: 10 miles  
    - Long, easy run in Zone 2  
 
 ---
 
-#### **Week 2 (May 8–14) – Bike Focus**  
-1. **Bike**: 50 km  (2 hours)
+#### **Week 2 (Bike Focus)**  
+1. **Bike**: 30 miles (2 hours)  
    - Steady ride in Zone 2  
 
-2. **Bike**: 60 km  (2.5 hours)
+2. **Bike**: 35 miles (2.5 hours) 
    - Steady ride in Zone 2  
-   - Brick Run: 4 km easy off the bike  
+   - Brick Run: 2.5 miles easy off the bike  
 
-3. **Swim**: 2,000 meters  
-   - Warm-up: 500m easy  
-   - Main set: 8x100m at race pace (15s rest), 6x50m sprint (10s rest)  
-   - Cool-down: 200m easy  
+3. **Swim**: 2,200 yards  
+   - Warm-up: 500 yards easy  
+   - Main set: 8x100 yards at race pace (15s rest), 6x50 yards sprint (10s rest)  
+   - Cool-down: 200 yards easy  
 
-4. **Run**: 10 km  
-   - Warm-up: 1 km easy  
+4. **Run**: 6 miles  
+   - Warm-up: 0.6 miles easy  
    - Main set: 6x3 minutes at Zone 4 with 2 minutes easy jog between intervals  
-   - Cool-down: 1 km easy  
+   - Cool-down: 0.6 miles easy  
 
-5. **Run**: 14 km  
+5. **Run**: 8.5 miles  
    - Long, easy run in Zone 2  
 
 ---
 
-#### **Week 3 (May 15–21) – Run Focus**
-### **Saturday, May 17 – French Creek Trifest**🏊‍♂️🚴‍♂️🏃‍♂️    
-1. **Run**: 8 km  
+#### **Week 3 (Run Focus)**  
+1. **Run**: 5 miles  
    - Easy run with 4x1-minute pickups at race pace  
 
-2. **Run**: 10 km  
+2. **Run**: 6 miles  
    - Long, easy run in Zone 2  
 
-3. **Swim**: 1,500 meters  
+3. **Swim**: 1,650 yards  
    - Easy technique-focused swim  
 
-4. **Bike**: 40 km  (1 hr)
+4. **Bike**: 25 miles (1 hr) 
    - Easy spin in Zone 2  
 
-5. **Bike**: 50 km  (1.5 hours)
+5. **Bike**: 30 miles (1.5 hr) 
    - Steady ride in Zone 2  
-   - Brick Run: 3 km easy off the bike  
+   - Brick Run: 2 miles easy off the bike  
 
 ---
 
 #### **Week 4 (May 22–28) – Swim Focus**  
-1. **Swim**: 1,500 meters  
+1. **Swim**: 1,100 yards 
    - Easy technique-focused swim  
 
-2. **Swim**: 1,000 meters  
+2. **Swim**: 1,100 yards
    - Easy swim with 4x100m at race pace  
 
-3. **Bike**: 30 km  (1 hr)
+3. **Bike**: 18.6 miles (1 hr)
    - Easy spin in Zone 2  
 
-4. **Run**: 6 km  
+4. **Run**: 3.72 miles  
    - Easy run with 2x3 minutes at race pace  
 
-5. **Run**: 8 km  
+5. **Run**: 5 miles  
    - Long, easy run in Zone 2  
 
 ---
@@ -132,7 +131,7 @@ Got it! Here’s the **May Taper Phase** plan in the same format, with **5 worko
 - **Listen to Your Body**: Adjust intensity or take extra rest if you feel fatigued or sore.  
 - **Mental Preparation**: Visualize race day and practice positive self-talk during tough workouts.  
 - **Gear Check**: Test your race-day gear (e.g., wetsuit, bike, shoes) during training to ensure everything works well.
-- **Conversions**: 1 km = .62 mi., 1 m = 3.28 ft.
+- **Conversions**: 1 km = .62 mi., 1 m = 1.09 yd.
 - **70.3 Ironman**: 1.2 mi. Swim, 56 mi. Bike, 13.1 mi. Run
 
 ---
